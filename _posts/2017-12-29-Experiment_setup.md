@@ -1,7 +1,7 @@
 # Experiment Setup #
 In order to verify my theory, a motor test bench is neccesary. The test bench consist of following equipments:
 
-1, two motors, which are called dynamometer motor and test motor respectively. The dynamometer motor is operated in speed mode, which means the motor keep its speed constant all the time, not affected by torque changes. The test motor is operated in torque, which means its electromagnetic is constant.
+1, two motors, which are called dynamometer motor and test motor respectively. The dynamometer motor is operated in speed mode, which means the motor keep its speed constant all the time, not affected by torque changes. The test motor is operated in torque mode, which means its electromagnetic torque is constant.
 
 ![](https://i.imgur.com/EA3v75q.jpg)
 
