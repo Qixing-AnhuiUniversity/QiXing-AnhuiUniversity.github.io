@@ -1,10 +1,10 @@
 # Data-based Motor Control #
 
-###introduction
+## introduction
 
  Data-based motor control method is a new techonology used for motor controlling by statistic method or machine learning.Unlike the conventional methods, which are usually based on motor's mathmatical model or equivalant circut model,data-based method is independent of motor's model. It depends entirely on the collected data.
 
-###Model-based method
+## Model-based method
 
 Conventional motor control method usually depends on motor's model. For example, in induction or permanent magnet synchronous motor sensorless control, there are some classical method used as follows:
 
