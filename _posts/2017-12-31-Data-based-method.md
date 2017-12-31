@@ -16,7 +16,7 @@ Conventional motor control method usually depends on motor's model. For example,
 
 all of the above methods depend on the motor's mathmatical model. Although these methods work well in most condition, there are some limitation yet.Firstly, we can't derive a completely accurated  motor's mathmatical model, hence when we use a approximated model, some model error generated inevitably.Secondly, as noise is common in motor control application, we actually used a "noisy" model because noise will overlay to real model, which means model-based method have poor performance on anti-noise. Thirdly, in some extrodinary condition, some model-based method may be unstable. For example, in induction motor's low-speed regenerated condition, most of the model based methods are invalid because they will cause stability problem. 
 
-###Data-based method
+## Data-based method
 Thanks to the recent breakthrough in artificiall intelligence techonology, which gives us an alternative thinking to solve the problem. Is there a way, that we can abandon the mathmatical model, instead we totally depend on measured data?
 
 
