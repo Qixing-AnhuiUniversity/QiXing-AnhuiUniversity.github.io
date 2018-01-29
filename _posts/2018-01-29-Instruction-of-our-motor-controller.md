@@ -5,7 +5,7 @@ There are four members in our team, whose are Lishan Zhu(hardware design), Zhoul
 **Features**
 
 1. Use of the latest MOSFET technology, low noise and high efficiency energy conversion.
-2. Filed Oriented Control(FOC) technology used, four-quadrant control of motor torque and speed (driving and braking torque in the forward and reverse directions) is allowed without the need for directional contactors.
+2. Flux Oriented Control(FOC) technology used, four-quadrant control of motor torque and speed (driving and braking torque in the forward and reverse directions) is allowed without the need for directional contactors.
 3. Parameters can be flexibly adjusted to suit various situations.
 4. Buzzer is used to alert various faults.
 5. Improve the over-temperature, over-current, over-voltage, under-voltage and other protection features to enhance system reliability.
