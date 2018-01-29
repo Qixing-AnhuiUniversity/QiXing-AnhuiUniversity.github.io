@@ -1,6 +1,6 @@
 # Instruction of our motor controller #
 
-There are four members in our team, whose are Lishan Zhu(hardware design), Zhoulin Zhai(software design), Long Qin(structual design) and Xing Qi(algorithm design and testbench design). All of us have at least 7 years experience of motor controller design. Here are some instruction of our motor controller.
+There are four members in our team, whose are Lishan Zhu(hardware design), Zhoulin Zhai(software design), Long Qin(structual design) and Xing Qi(algorithm design and testbench design). All of us have at least 7 years experience of motor controller design. Here are some instructions of our motor controller.
 
 **Features**
 
