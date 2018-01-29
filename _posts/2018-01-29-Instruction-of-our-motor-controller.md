@@ -15,7 +15,7 @@ There are four members in our team, whose are Lishan Zhu(hardware design), Zhoul
 
 **Key Parameters**
 
-- Nominal voltage: 48V~72V compatible(another controller is 400V and has larger power, which will be intruduced in the future)
+- Nominal voltage: 48V~72V compatible(another controller is 400V and has larger power, which will be introduced in the future)
 - Rated current: 350 A
 - Rated Power: 7.5Kw
 - Temperature: -40℃~55℃
