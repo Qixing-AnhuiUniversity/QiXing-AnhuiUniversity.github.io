@@ -33,4 +33,4 @@ There are four members in our team, whose are Lishan Zhu(hardware design), Zhoul
 This controller has successfully been used in electrical veichel.
 ![](https://i.imgur.com/CliJjvS.jpg)
 
-If you are interested in our motor controller or our test bench, please contact to me, my email is 10031@ahu.edu.cn.
+If you are interested in our motor controller or our test bench, please contact with me, my email is 10031@ahu.edu.cn.
