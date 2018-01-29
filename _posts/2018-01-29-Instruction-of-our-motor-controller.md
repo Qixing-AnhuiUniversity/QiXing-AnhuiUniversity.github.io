@@ -1,4 +1,4 @@
-# Instruction of our motor controller #
+# Instruction of our motor controller(1) #
 
 There are four members in our team, whose are Lishan Zhu(hardware design), Zhoulin Zhai(software design), Long Qin(structual design) and Xing Qi(algorithm design and testbench design). All of us have at least 7 years experience of motor controller design. Here are some instruction of our motor controller.
 
@@ -15,7 +15,7 @@ There are four members in our team, whose are Lishan Zhu(hardware design), Zhoul
 
 **Key Parameters**
 
-- Nominal voltage: 48V~72V compatible
+- Nominal voltage: 48V~72V compatible(another controller is 400V and have larger power, which will be intruduced in the future)
 - Rated current: 350 A
 - Rated Power: 7.5Kw
 - Temperature: -40℃~55℃
